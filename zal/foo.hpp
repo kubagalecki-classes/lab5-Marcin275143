@@ -9,7 +9,7 @@
 
 using namespace std;
 
-std::vector< char > foo(std::list< Human >& people)
+vector <char> foo (list <Human> &lista)
     
 {
        
